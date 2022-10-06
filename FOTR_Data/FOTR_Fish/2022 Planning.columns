@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"ID","INTEGER","2","2","0"
+"FIELDID","STRING","6","0","0"
+"2022","INTEGER","1","1","0"
+"Reason","STRING","17","0","0"
+"date","STRING","19","0","0"
+"WSU","STRING","1","1","0"

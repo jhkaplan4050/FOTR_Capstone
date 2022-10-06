@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"ID","INTEGER","2","2","0"
+"Scientific name","STRING","23","0","0"
+"common name","STRING","39","0","0"

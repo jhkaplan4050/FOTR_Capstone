@@ -1,0 +1,5 @@
+"name","type","length","leftDigits","rightDigits"
+"SampID","INTEGER","4","4","0"
+"Taxon","STRING","21","0","0"
+"AbundanceCat","STRING","7","0","0"
+"AbundanceCount","STRING","3","0","0"

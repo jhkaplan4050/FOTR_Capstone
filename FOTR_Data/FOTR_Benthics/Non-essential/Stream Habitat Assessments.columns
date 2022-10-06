@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"ID","INTEGER","2","2","0"
+"FIELDID","STRING","5","0","0"
+"2022","INTEGER","1","1","0"
