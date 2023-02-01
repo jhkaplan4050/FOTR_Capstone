@@ -1,7 +1,0 @@
-"name","type","length","leftDigits","rightDigits"
-"ID","INTEGER","4","4","0"
-"FieldID","STRING","5","0","0"
-"SampleDate","STRING","19","0","0"
-"Primary ID","STRING","22","0","0"
-"Length in cm","DECIMAL","4","2","1"
-"Quantity","INTEGER","3","3","0"

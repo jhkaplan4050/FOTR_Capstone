@@ -1,6 +1,0 @@
-"name","type","length","leftDigits","rightDigits"
-"ID","INTEGER","4","4","0"
-"SampleID","INTEGER","3","3","0"
-"FishName","INTEGER","3","3","0"
-"Length","STRING","0","0","0"
-"Quantity","INTEGER","3","3","0"

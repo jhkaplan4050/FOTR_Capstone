@@ -1,7 +1,0 @@
-"name","type","length","leftDigits","rightDigits"
-"ID","INTEGER","2","2","0"
-"Sampl ID","INTEGER","4","4","0"
-"Live Species","INTEGER","2","2","0"
-"number","INTEGER","2","2","0"
-"males","STRING","1","0","0"
-"females","STRING","1","0","0"

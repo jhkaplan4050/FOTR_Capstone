@@ -1,4 +1,0 @@
-"name","type","length","leftDigits","rightDigits"
-"ID","INTEGER","2","2","0"
-"fname","STRING","9","0","0"
-"lname","STRING","11","0","0"
