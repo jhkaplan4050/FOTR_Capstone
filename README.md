@@ -4,4 +4,4 @@
 ## Friends of the Rouge
 
 ### BSI IA Capstone Project
-### SI 405
+### SI 405 & SI 485
